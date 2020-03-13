@@ -1,6 +1,7 @@
 /* CSS Styling /*/
 
-h1{
-    color: purple;
+.jumbotron{
+    text-align: center;
+    background-color: lightgray;
 }
     
